@@ -1,2 +1,2 @@
 # Link Github Pages
-## https://galihprmn.github.io/
+https://galihprmn.github.io/
